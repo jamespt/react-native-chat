@@ -29,7 +29,7 @@
     "feathers-authentication-client": "^0.3.2",
     "feathers-hooks": "^2.0.1",
     "feathers-socketio": "^2.0.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "native-base": "^2.1.4",
     "react": "16.0.0-alpha.6",
     "react-komposer": "https://github.com/bhavishhak/react-komposer.git",
